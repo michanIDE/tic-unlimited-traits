@@ -1,0 +1,5 @@
+item.coating_material.name=Tool-Coat Infinite
+modifier.ticunlimitedtraits.coating.name=コーティング
+modifier.armor.ticunlimitedtraits.coating_armor.name=コーティング
+gui.error.ticunlimitedtraits.coating_no_extratrait=この道具には改造「エンボス」が付与されていません。
+gui.error.armor.ticunlimitedtraits.coating_no_extratrait=この防具には改造「エンボス」が付与されていません。

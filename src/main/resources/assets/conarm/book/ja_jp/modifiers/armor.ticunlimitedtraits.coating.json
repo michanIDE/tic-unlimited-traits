@@ -1,0 +1,20 @@
+{
+    "armormodifier": "armor.ticunlimitedtraits.coating_armor",
+    "text": [
+      {
+        "text": "もっとエンボス加工したい? そんな時はこちらのコート剤! 特殊配合のコート剤を使えば、その上からエンボス加工ができる!"
+      }
+    ],
+    "effects": [
+      "追加の特性を取り去ることなく改造「エンボス」を除去",
+      "改造「エンボス」の付いた防具にのみ適用可能",
+      "改造スロットを1つ消費"
+    ],
+    "demoArmor": [
+      "conarm:helmet",
+      "conarm:chestplate",
+      "conarm:leggings",
+      "conarm:boots"
+    ]
+  }
+  

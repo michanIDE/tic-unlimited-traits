@@ -1,0 +1,20 @@
+{
+    "armormodifier": "armor.ticunlimitedtraits.coating_armor",
+    "text": [
+      {
+        "text": "Do you want more embossments on your armor? Here is a solution! Special coating material coats your armor so you can apply additional embossment on it!"
+      }
+    ],
+    "effects": [
+      "Clear Embossment modifier without removing extra traits",
+      "Only applicable for armor with Embossment",
+      "Requires 1 modifier slot"
+    ],
+    "demoArmor": [
+      "conarm:helmet",
+      "conarm:chestplate",
+      "conarm:leggings",
+      "conarm:boots"
+    ]
+  }
+  

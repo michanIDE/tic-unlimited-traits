@@ -1,0 +1,5 @@
+item.coating_material.name=Tool-Coat Infinite
+modifier.ticunlimitedtraits.coating.name=Coating
+modifier.armor.ticunlimitedtraits.coating_armor.name=Coating
+gui.error.ticunlimitedtraits.coating_no_extratrait=This tool doesn't have any Embossment.
+gui.error.armor.ticunlimitedtraits.coating_no_extratrait=This armor doesn't have any Embossment.

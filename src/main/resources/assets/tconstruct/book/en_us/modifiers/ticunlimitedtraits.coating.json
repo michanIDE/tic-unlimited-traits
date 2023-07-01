@@ -1,0 +1,20 @@
+{
+    "modifier": "ticunlimitedtraits.coating",
+    "text": [
+      {
+        "text": "Do you want more embossments on your tool? Here is a solution! Special coating material coats your tool so you can apply additional embossment on it!"
+      }
+    ],
+    "effects": [
+      "Clear Embossment modifier without removing extra traits",
+      "Only applicable for tools with Embossment",
+      "Requires 1 modifier slot"
+    ],
+    "demoTool": [
+        "tconstruct:pickaxe",
+        "tconstruct:hammer",
+        "tconstruct:shortbow",
+        "tconstruct:arrow"
+      ]
+  }
+  

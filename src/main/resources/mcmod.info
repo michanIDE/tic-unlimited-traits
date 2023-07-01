@@ -1,0 +1,17 @@
+[
+{
+  "modid": "ticunlimitedtraits",
+  "name": "Tinkers' Unlimited Traits",
+  "description": "Mod for players who wants to apply multiple Embossment modifiers",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["michanide"]
+  "logoFile": "",
+  "screenshots": [],
+  "useDependencyInformation": true,
+  "dependencies": ["mantle", "tconstruct", "conarm"],
+  "requiredMods": ["tconstruct@[1.12-2.10,)"]
+}
+]

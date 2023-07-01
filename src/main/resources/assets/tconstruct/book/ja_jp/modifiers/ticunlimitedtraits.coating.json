@@ -1,0 +1,20 @@
+{
+    "modifier": "ticunlimitedtraits.coating",
+    "text": [
+      {
+        "text": "もっとエンボス加工したい? そんな時はこちらのコート剤! 特殊配合のコート剤を使えば、その上からエンボス加工ができる!"
+      }
+    ],
+    "effects": [
+      "追加の特性を取り去ることなく改造「エンボス」を除去",
+      "改造「エンボス」の付いた道具にのみ適用可能",
+      "改造スロットを1つ消費"
+    ],
+    "demoTool": [
+        "tconstruct:pickaxe",
+        "tconstruct:hammer",
+        "tconstruct:shortbow",
+        "tconstruct:arrow"
+      ]
+  }
+  
